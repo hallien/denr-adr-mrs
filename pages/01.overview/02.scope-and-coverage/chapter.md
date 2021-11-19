@@ -1,8 +1,7 @@
 ---
-title: Objectives
+title: 'Scope and Coverage'
 taxonomy:
-    category:
-        - docs
+    category: docs
 process:
     markdown: true
     twig: false
