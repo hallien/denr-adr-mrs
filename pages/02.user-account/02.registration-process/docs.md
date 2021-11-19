@@ -18,13 +18,13 @@ Using your mouse pointer, _click_ **New Registration** to allow new users to reg
 
 -------------------------
 
-Fill in the necessary data as indicated in the form.</br>
-	A.	Name </br>
-    B.	Office Position</br>
-	C.	Office Type - either Regional, PENRO, and CENRO.</br>
-    D.	For PENROS only - is the office administrative only or implementing ADR like a CENRO.</br>
-	E.	Email Address - this will serve as your username as well.</br>
-    F.	Contact Numbers</br>
+Fill in the necessary data as indicated in the form.
+	A.	Name
+    B.	Office Position
+	C.	Office Type - either Regional, PENRO, and CENRO.
+    D.	For PENROS only - is the office administrative only or implementing ADR like a CENRO.
+	E.	Email Address - this will serve as your username as well.
+    F.	Contact Numbers
     
 ![usr-reg-pg](usr-reg-pg.PNG "usr-reg-pg")
 
