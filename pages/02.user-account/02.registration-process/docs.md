@@ -10,6 +10,12 @@ Please type in the **address bar** of your computer or mobile device’s (smartp
 
 ![Capture](Capture.PNG "Capture")
 
+-------------------------
+
 Using your mouse pointer, _click_ **New Registration** to allow new users to register to the System as encircled below.
 
 ![new-reg-link](new-reg-link.PNG "new-reg-link")
+
+-------------------------
+
+
