@@ -17,6 +17,7 @@ Using your mouse pointer, _click_ **New Registration** to allow new users to reg
 ![new-reg-link](new-reg-link.PNG "new-reg-link")
 
 -------------------------
+
 Fill in the necessary data as indicated in the form.
 	A.	Name
     B.	Office Position
@@ -24,4 +25,6 @@ Fill in the necessary data as indicated in the form.
     D.	For PENROS only - is the office administrative only or implementing ADR like a CENRO.
 	E.	Email Address - this will serve as your username as well.
     F.	Contact Numbers
+    
+![usr-reg-pg](usr-reg-pg.PNG "usr-reg-pg")
 
