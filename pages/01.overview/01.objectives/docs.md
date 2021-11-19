@@ -3,6 +3,9 @@ title: Objectives
 taxonomy:
     category:
         - docs
+process:
+    markdown: true
+    twig: false
 ---
 
 The use of Alternative Dispute Resolution Monitoring and Results System (ADR-MRS) by the registered users primarily aims to strengthen and improve the institutionalization and implementation of ADR in the Department. The following are its objectives: 	
