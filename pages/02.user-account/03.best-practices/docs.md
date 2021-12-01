@@ -5,4 +5,5 @@ taxonomy:
         - docs
 ---
 
-Your page content goes here.
+Accounts created in ADR-MRS should be limited to a person. Do not create shared accounts.
+Always use an easily memorable password that you only know. Use phrases and substitute letters with symbols or numbers.
