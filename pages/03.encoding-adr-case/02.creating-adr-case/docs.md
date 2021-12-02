@@ -1,5 +1,7 @@
 ---
 title: 'Creating ADR Case'
+featherlight:
+    active: true
 media_order: 'before-link-click-list.png,after-link-click-list.png,adr-form-for-def.png'
 taxonomy:
     category:
