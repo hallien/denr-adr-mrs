@@ -1,5 +1,7 @@
 ---
 title: 'Creating ADR Case'
+featherlight:
+    active: true
 media_order: 'before-link-click-list.png,after-link-click-list.png,adr-form-for-def.png'
 taxonomy:
     category:
@@ -7,7 +9,7 @@ taxonomy:
 ---
 
 To start input cases, click "**List**" link on the menu bar.
-![before-link-click-list](before-link-click-list.png "before-link-click-list")
+![before-link-click-list](before-link-click-list.png "before-link-click-list" ?lightbox=1024&cropResize=200,200)
 
 After clicking the link, the user should see List page.</br>
 Click the "**ADR Form**" button.
