@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Part III
 
-# Chapter Title
-
-Chapter description.
+# Encoding ADR Cases
