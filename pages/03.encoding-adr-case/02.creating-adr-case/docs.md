@@ -9,7 +9,7 @@ taxonomy:
 ---
 
 To start input cases, click "**List**" link on the menu bar.
-![before-link-click-list](before-link-click-list.png?lightbox=1024&cropResize=200,200 "before-link-click-list")
+![before-link-click-list](before-link-click-list.png?lightbox "before-link-click-list")
 
 After clicking the link, the user should see List page.</br>
 Click the "**ADR Form**" button.
