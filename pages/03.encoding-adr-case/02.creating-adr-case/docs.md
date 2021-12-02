@@ -23,7 +23,7 @@ Form Requirements Definition:
 4.	Parties Involved - Select what kind of parties involved for ADR.
 5.	Protestant - Name of the Protestant. (changes based on the selection on _Parties Involved_)
 6.	Applicant - Name of the Applicant. (changes based on the selection on _Parties Involved_)
-7.	x
+7.	Case Name / Caption Parties	-  This is automatically generated once the form is saved. This is based on entries in part 5th and 6th of the form.
 8.	Location Subject of the Case - Specific Lot No., Plot No. that can be used to pinpoint the location in question.
 9.	Region - Region where the case is under.
 10.	Province - Province where the case is under.
