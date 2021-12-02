@@ -17,5 +17,11 @@ After clicking the button, the user should be able to see the ADR entry from.</b
 The user should fill in the correct information as labeled in the form.
 
 Form Requirements Definition:
-1.	aaaa
+1.	ADR No. - This is automatically generated once the form is saved.
+2.	Nature of Subject - Select what kind of dispute classification is ADR case.
+3.	Case No. - Place the office designated classification number of the case.
+4.	Parties Involved - Select what kind of parties involved for ADR.
+5.	Protestant - Name of the Protestant. (changes based on the selection on _Parties Involved_)
+6.	Applicant - Name of the Applicant. (changes based on the selection on _Parties Involved_)
+7.	
 ![adr-form-for-def](adr-form-for-def.png "adr-form-for-def")
