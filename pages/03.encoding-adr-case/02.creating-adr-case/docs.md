@@ -1,9 +1,9 @@
 ---
 title: 'Creating ADR Case'
+media_order: 'before-link-click-list.png,after-link-click-list.png,adr-form-for-def.png'
 taxonomy:
     category:
         - docs
-media_order: 'before-link-click-list.png,after-link-click-list.png,adr-form-for-def.png'
 ---
 
 To start input cases, click "**List**" link on the menu bar.
@@ -23,5 +23,11 @@ Form Requirements Definition:
 4.	Parties Involved - Select what kind of parties involved for ADR.
 5.	Protestant - Name of the Protestant. (changes based on the selection on _Parties Involved_)
 6.	Applicant - Name of the Applicant. (changes based on the selection on _Parties Involved_)
-7.	
+7.	x
+8.	Location Subject of the Case - Specific Lot No., Plot No. that can be used to pinpoint the location in question.
+9.	Region - Region where the case is under.
+10.	Province - Province where the case is under.
+11.	City / Municipality - City / Municipality where the case is under.
+12.	Date Filed - \*need clarifications\*
+13.	Date Referred to ADRO - Date of protest received.
 ![adr-form-for-def](adr-form-for-def.png "adr-form-for-def")
