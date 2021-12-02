@@ -31,3 +31,5 @@ Form Requirements Definition:
 12.	**Date Filed** - \*need clarifications\*
 13.	**Date Referred to ADRO** - Date of protest received.
 ![adr-form-for-def](adr-form-for-def.png "adr-form-for-def")
+
+After saving the form, the user will be redirected to the List page.
